@@ -1,0 +1,75 @@
+* {
+    border: 0px; margin: 0px; padding: 0px;
+}
+h1 {
+    background-color: rgb(9, 9, 161); font-size: 60px; color: white; font-style: italic;
+    padding-top: 5px; padding-left: 450px; padding-bottom: 5px; margin-top: 5px;
+}
+h3 {
+    font-style: italic; font-weight: normal;
+    margin-top: 7px; margin-left: 5px; margin-bottom: 5px;
+    text-indent: 25px; text-align: justify;
+}
+.bloco-um img {
+    width: 550px; height: 500px; margin-left: 45px; margin-bottom: 10px;
+    float: left; clear: both; border: 2px black solid;
+}
+.bloco-dois img {
+    width: 550px; height: 500px; margin-right: 45px; float: right;
+    border: 2px black solid;
+}
+p{
+   margin-top: 10px; margin-left: 5px; float: left;font-style: italic;
+   text-indent: 25px; text-align: justify;
+}
+.bloco-tres img {
+    width: 500px; height: 500px ; 
+    margin-top: 7px; margin-left: 370px; border: 2px black solid;
+}
+.bloco-quatro p {
+    text-indent: 15px; text-align: justify;
+    margin-bottom: 10px;
+}
+.bloco-quatro h2 {
+    font-style: italic; font-weight: bolder; color: blue;
+    margin-top: 10px; margin-left: 430px; margin-bottom: 10px;clear: both;
+    text-indent: 25px;text-align: justify;
+}
+.bloco-cinco img {
+    width: 500px; height: 500px; border: 2px black solid; float: left;
+    margin-left: 90px;
+}
+.bloco-seis img {
+    width: 500px; height: 500px; border: 2px black solid; float: right;
+    margin-right: 100px;
+}
+.bloco-sete img {
+    width: 500px; height: 500px; border: 2px black solid; float: left;
+    margin-top: 10px; margin-left: 90px; margin-bottom: 15px;
+}
+.bloco-oito img {
+    width: 500px; height: 500px; border: 2px black solid; float: right;
+    margin-top: 10px; margin-bottom: 15px ; margin-right: 100px;
+}
+.bloco-nove {
+    clear: both;
+}
+.bloco-nove h5 {
+    font-size: 20px; font-style: italic; color: blue ;margin-left: 260px;
+}
+.bloco-dez img {
+    width: 500px; height: 500px; border: 2px black solid; float: right;
+    margin-right: 98px; margin-top: 10px;
+}
+.bloco-onze img {
+    width: 500px; height: 500px; border: 2px black solid; float: left;
+    margin-left: 90px; margin-top: 10px; margin-bottom: 10px;
+}
+.bloco-doze {
+   height: 40px; background: rgb(9, 9, 161); clear: both;
+}
+.bloco-doze p {
+    font-style: italic;color: white;
+    text-indent: 30px; text-align: justify;
+    padding: auto;
+}
